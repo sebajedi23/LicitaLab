@@ -13,12 +13,12 @@ Esta sección consiste en algoritmos de pre procesamiento de texto, word embeddi
 [![Enlace a CleanLab](https://img.shields.io/badge/Enlace%20a%20CleanLab-GitHub-brightgreen)](https://github.com/cleanlab)
 
 Este modelo de re-etiquetado fue desarrollado a través de la plataforma gratuita de Google-Colab, el cual se encuentra a continuación:
-[![Enlace a Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iPZN2GPoMizBdTDXeyb8C32iBDADBTEg?usp=sharing)
+[![Enlace a Colab](https://colab.research.google.com/drive/1aNSzygCTUA7VJBTdcRC-TYI5oIh8xhRE?usp=sharing)
 
 ## **Modelo Prediccion**
 Esta sección consiste en algoritmos de procesamiento de datos, enriquecimiento de la data y aplicación de modelos de regresión para consolidar un modelo de predicción de demanda de productos de Mercado Público. Este modelo esta implementado en este repositorio y disponible a través de Google-Colab. También es posible de ejecutar de forma local en su computador.
-[![Enlace a Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kozU-sL4gbWYIfEjqJ9W37rvi-nPOxtV?usp=sharing)
+[![Enlace a Colab](https://colab.research.google.com/drive/1VFAaSApU0c2h2HqolP6in8a4RN6CDmwG?usp=sharing)
 
 ## **Anexo: Obtener datos de Mercado Público**
 En el siguiente archivo de Google-Colab se implementa un método para acceder a datos abiertos de Mercado Público:
-[![Enlace a Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YYhzyMOv9olkqKbitjkficscNYJSlUQD?usp=sharing)
+[![Enlace a Colab](https://colab.research.google.com/drive/1U-zNOv1WUcbl6C1FOnCl1eG7GfiBjCHD?usp=sharing)

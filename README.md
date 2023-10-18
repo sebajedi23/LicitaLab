@@ -2,7 +2,7 @@
 En este repositorio se muestra el desarrollo de un proyecto realizado en conjunto con LicitaLab, el cual consiste a grandes rasgos en la realización de un modelo de proyección de demanda de productos de Mercado Público, en conjunto con un previo re-etiquetado de los productos. Por esto mismo, el proyecto se divide en 2 ítems, los cuales presentan las 2 problemáticas abordadas por el proyecto.
 
 Proyecto desarrollado por estudiantes del curso MDS7201-1 - Proyecto de Ciencia de Datos de la Universidad de Chile en el semestre Primavera 2023 
-- Mario Gonzáleza
+- Mario González
 - Sebastián Ojeda
 - Tomás Reyes
 - Evelyn Silva

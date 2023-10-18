@@ -1,11 +1,11 @@
 # Proyecto-de-Ciencia-de-Datos
-En este repositorio se muestra el desarrollo de un proyecto realizado en conjunto con LicitaLab, el cual consiste en grandes rasgos en la realización de un modelo de proyección de demanda de productos de Mercado Público. Para ello, este proyecto se divide en 2 items los cuales presentan las 2 problemáticas abordadas por el proyecto.
+En este repositorio se muestra el desarrollo de un proyecto realizado en conjunto con LicitaLab, el cual consiste a grandes rasgos en la realización de un modelo de proyección de demanda de productos de Mercado Público, en conjunto con un previo re-etiquetado de los productos. Por esto mismo, el proyecto se divide en 2 ítems, los cuales presentan las 2 problemáticas abordadas por el proyecto.
 
-Proyecto desarrollado por estudiantes del curso MDS7201-1 - Proyecto de Ciencia de Datos en el semestre Otoño 2023
-- Álvaro Gallardo
-- Nicolás Ojeda
-- Claudia Navarro
-- Eduardo Moya
+Proyecto desarrollado por estudiantes del curso MDS7201-1 - Proyecto de Ciencia de Datos de la Universidad de Chile en el semestre Primavera 2023 
+- Mario Gonzáleza
+- Sebastián Ojeda
+- Tomás Reyes
+- Evelyn Silva
 
 ## Re-etiquetado
 Esta sección consiste en algoritmos de pre procesamiento de texto, word embedding, aplicación de arboles de decisión y obtención de probabilidades de etiquetas a través de asignación de pesos de modelos de clasificación en conjunto con algoritmos desarrollados por CleanLab. Con ello se aplica un modelo que permite predecir las etiquetas que se encuentran erróneas en un set de datos e indicar una probable etiqueta correcta en caso de que esta sea errónea. Se recomienda realizar la ejecución utilizando GPU.
@@ -22,3 +22,9 @@ Esta sección consiste en algoritmos de procesamiento de datos, enriquecimiento 
 ## **Anexo: Obtener datos de Mercado Público**
 En el siguiente archivo de Google-Colab se implementa un método para acceder a datos abiertos de Mercado Público:
 [![Enlace a Colab](https://colab.research.google.com/drive/1U-zNOv1WUcbl6C1FOnCl1eG7GfiBjCHD?usp=sharing)
+
+Agradecimientos al grupo que abordó anteriormente el problema y construyó la base desde la que se retomó el proyecto:
+- Álvaro Gallardo
+- Eduardo Moya
+- Claudia Navarro
+- Nicolás Ojeda
